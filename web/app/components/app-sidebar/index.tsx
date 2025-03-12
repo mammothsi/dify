@@ -120,6 +120,12 @@ const AppDetailNav = ({ title, desc, isExternal, icon, icon_background, navigati
           </div>
         )
       }
+      {/* Update any footer section with branding */}
+      <div className="footer">
+        <Link href="https://vikai.si" target="_blank" className="powered-by">
+          Poganja Vika
+        </Link>
+      </div>
     </div>
   )
 }

@@ -1,0 +1,10 @@
+{
+  "name": "Vika",
+  "short_name": "Vika",
+  "icons": [
+    // ...existing code...
+  ],
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone"
+}
