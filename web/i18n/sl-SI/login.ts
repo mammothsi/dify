@@ -1,6 +1,6 @@
 const translation = {
   pageTitle: 'Hej, začnimo!👋',
-  welcome: 'Dobrodošli v Dify, prosimo, prijavite se za nadaljevanje.',
+  welcome: 'Dobrodošli v Viki, prosimo, prijavite se za nadaljevanje.',
   email: 'E-poštni naslov',
   emailPlaceholder: 'Vaš e-poštni naslov',
   password: 'Geslo',
@@ -11,7 +11,7 @@ const translation = {
   signBtn: 'Prijava',
   sso: 'Nadaljujte z SSO',
   installBtn: 'Namesti',
-  setAdminAccount: 'Nastavitev administratorskega računa',
+  setAdminAccount: 'Nastavitev admin',
   setAdminAccountDesc: 'Najvišje pravice za administratorski račun, ki se lahko uporablja za ustvarjanje aplikacij in upravljanje LLM ponudnikov itd.',
   createAndSignIn: 'Ustvari in prijavi se',
   oneMoreStep: 'Še en korak',

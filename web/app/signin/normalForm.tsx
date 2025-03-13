@@ -190,22 +190,17 @@ const NormalForm = () => {
             <Link
               className='system-xs-medium text-text-secondary hover:underline'
               target='_blank' rel='noopener noreferrer'
-              href='https://dify.ai/terms'
+              href='https://mammoth.si/pogoji-uporabe/'
             >{t('login.tos')}</Link>
             &nbsp;&&nbsp;
             <Link
               className='system-xs-medium text-text-secondary hover:underline'
               target='_blank' rel='noopener noreferrer'
-              href='https://dify.ai/privacy'
+              href='https://mammoth.si/varovanje-osebnih-podatkov/'
             >{t('login.pp')}</Link>
           </div>
           {IS_CE_EDITION && <div className="w-hull block mt-2 system-xs-regular text-text-tertiary">
-            {t('login.goToInit')}
-            &nbsp;
-            <Link
-              className='system-xs-medium text-text-secondary hover:underline'
-              href='/install'
-            >{t('login.setAdminAccount')}</Link>
+
           </div>}
 
         </div>
